@@ -1,0 +1,12 @@
+{
+  "artikel": [
+    {
+      "id": 1,
+      "title": "hello"
+      
+    }
+  ],
+  "users": {
+    "name": "environthink"
+  }
+}
